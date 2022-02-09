@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/naldohabib/.gradle/caches/transforms-3/c2e5b184780acf5c30d26550bf5bf59d/transformed/design-23.4.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "690",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "867"
+                    }
+                },
+                {
+                    "source": "/Users/naldohabib/.gradle/caches/transforms-3/43324ae71e0e69ef899868ba2ab37345/transformed/appcompat-v7-23.4.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                },
+                {
+                    "source": "/Users/naldohabib/.gradle/caches/transforms-3/a40b01a14a314201dec41834d0a76351/transformed/mediarouter-v7-23.4.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "8,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "462,537,615",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "532,610,685"
+                    }
+                }
+            ]
+        }
+    ]
+}

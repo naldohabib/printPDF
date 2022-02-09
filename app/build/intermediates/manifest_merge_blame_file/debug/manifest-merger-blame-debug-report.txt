@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zebra.pdfprint"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:5:5-68
+11-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:6:5-74
+12-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:6:22-71
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:8:5-80
+13-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:9:5-81
+14-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:10:5-79
+15-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:10:22-76
+16
+17    <application
+17-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:13:5-26:19
+18        android:allowBackup="true"
+18-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:14:9-35
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:15:9-43
+21        android:label="@string/app_name"
+21-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:16:9-41
+22        android:supportsRtl="true"
+22-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:17:9-35
+23        android:theme="@style/AppTheme" >
+23-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:18:9-40
+24        <activity
+24-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:19:9-25:20
+25            android:name="com.zebra.pdfprint.MainActivity"
+25-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:19:19-47
+26            android:exported="true" >
+26-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:20:13-36
+27            <intent-filter>
+27-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:21:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:22:17-69
+28-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:22:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:23:17-77
+30-->/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/src/main/AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

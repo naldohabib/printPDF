@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "EXTRACTED_APKS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.zebra.pdfprint",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../extracted_apks/release/base-in.apk"
+    },
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../extracted_apks/release/base-en.apk"
+    },
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../extracted_apks/release/base-xxhdpi.apk"
+    },
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../extracted_apks/release/base-master.apk"
+    }
+  ],
+  "elementType": "File"
+}

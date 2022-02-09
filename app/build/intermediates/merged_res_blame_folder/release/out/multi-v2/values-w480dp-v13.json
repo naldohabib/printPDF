@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/naldohabib/Downloads/LinkOS-Android-Samples-PDFPrint-master 2/PDFPrint/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/naldohabib/.gradle/caches/transforms-3/43324ae71e0e69ef899868ba2ab37345/transformed/appcompat-v7-23.4.0/res/values-w480dp-v13/values-w480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}
