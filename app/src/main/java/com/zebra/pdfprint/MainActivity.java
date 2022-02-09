@@ -45,10 +45,10 @@ public class MainActivity extends AppCompatActivity {
         printerInfoTableAddress = (TextView) findViewById(R.id.printerInfoTableAddress);
         printerInfoTable = (TableLayout) findViewById(R.id.printerInfoTable);
 
-//        pdfSelectionStatus = (TextView) findViewById(R.id.pdfSelectionStatus);
-//        pdfInfoTableName = (TextView) findViewById(R.id.pdfInfoTableName);
-//        pdfInfoTablePath = (TextView) findViewById(R.id.pdfInfoTablePath);
-//        pdfInfoTable = (TableLayout) findViewById(R.id.pdfInfoTable);
+        pdfSelectionStatus = (TextView) findViewById(R.id.pdfSelectionStatus);
+        pdfInfoTableName = (TextView) findViewById(R.id.pdfInfoTableName);
+        pdfInfoTablePath = (TextView) findViewById(R.id.pdfInfoTablePath);
+        pdfInfoTable = (TableLayout) findViewById(R.id.pdfInfoTable);
 
 
         TextView selectPrinterButton = (TextView) findViewById(R.id.selectPrinterButton);
